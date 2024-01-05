@@ -29,9 +29,9 @@ const styles = StyleSheet.create({
         // paddingHorizontal: 20,
     },
     whiteText: {
-        color: "#fff",
+        color: "#000",
     },
     darkText: {
-        color: "#000",
+        color: "#fff",
     },
 })
