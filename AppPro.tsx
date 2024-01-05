@@ -12,7 +12,7 @@ export default function AppPro(): JSX.Element {
     return (
         <View style={styles.container}>
             <Text 
-                style={isDarkMode ? styles.darkText : styles.darkText}
+                style={isDarkMode ? styles.darkText : styles.whiteText}
             >
                 Hello
             </Text>
